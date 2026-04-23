@@ -1,0 +1,12 @@
+{
+  "name": "tp-mongodb",
+  "version": "1.0.0",
+  "description": "TP MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mongodb": "^6.0.0"
+  }
+}
